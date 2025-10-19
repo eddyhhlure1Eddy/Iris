@@ -380,8 +380,6 @@ LRIS is an **experimental research project** designed to explore the limits of s
 
 - **GitHub**: https://github.com/eddyhhlure1Eddy/Iris
 - **Issues**: https://github.com/eddyhhlure1Eddy/Iris/issues
-- **Discussions**: https://github.com/eddyhhlure1Eddy/Iris/discussions
-- **Email**: eddy@lris.dev
 
 ---
 
@@ -433,9 +431,6 @@ The integration of Huawei CANN and edge computing represents the next frontier, 
 - LRIS GitHub Repository: https://github.com/eddyhhlure1Eddy/Iris
 - ComfyUI Integration Guide: https://github.com/eddyhhlure1Eddy/Iris-comfyui
 - Note: Complete kernel implementation not yet publicly released
-
-### Community Resources
-- User Testimonials: https://github.com/eddyhhlure1Eddy/Iris/discussions
 
 ### Academic Background
 - "System-Level Optimization for AI Workloads", eddy, 2025
