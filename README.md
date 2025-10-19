@@ -429,7 +429,6 @@ The integration of Huawei CANN and edge computing represents the next frontier, 
 
 ### Technical Documentation
 - LRIS GitHub Repository: https://github.com/eddyhhlure1Eddy/Iris
-- ComfyUI Integration Guide: https://github.com/eddyhhlure1Eddy/Iris-comfyui
 - Note: Complete kernel implementation not yet publicly released
 
 ### Academic Background
@@ -455,3 +454,4 @@ The integration of Huawei CANN and edge computing represents the next frontier, 
 **Last Updated**: October 2025  
 **Version**: 2.0  
 **Status**: Experimental - Active Development
+
